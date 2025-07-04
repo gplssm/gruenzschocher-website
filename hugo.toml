@@ -21,6 +21,11 @@ post = ""
 subtitle = "Ein Wohnprojekt in Gründung"
 title = "Willkommen in Grünzschocher"
 
+[params.footer]
+author = false
+copyright = false
+since = 2025
+
 
 # Menu config
   [[menu.main]]
