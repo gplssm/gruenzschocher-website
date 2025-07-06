@@ -1,4 +1,4 @@
 #!/bin/bash
 
-hugo
-rsync -avz public/ admin@192.168.178.23:/mnt/raid\ storage/apps-data/gruenzschocher-website/applications-gruenzschocher-website-pvc-\*
+hugo build
+rsync -avz -e 'ssh -p 22793' public/ admin@gplssm.dynu.net:/mnt/raid\ storage/apps-data/gruenzschocher-website/applications-gruenzschocher-website-pvc-\*
