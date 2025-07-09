@@ -1,3 +1,9 @@
+# Setup development environment
+
+```bash
+git submodule update --init --recursive
+```
+
 # Publish to web server
 
 ```bash
