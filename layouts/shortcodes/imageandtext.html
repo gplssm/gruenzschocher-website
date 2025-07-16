@@ -7,14 +7,14 @@
     /* Create two equal columns that float next to each other */
     .col-image {
         float: left;
-        width: 33.33%;
-        padding: 10px;
+        width: 20%;
+        padding: 5px;
     }
 
     .col-3 {
         float: left;
-        width: 66.67%;
-        padding: 10px;
+        width: 55%;
+        padding: 5px;
 	text-align: left;
     }
 
@@ -40,10 +40,10 @@ https://hugo-mini-course.netlify.app/sections/optimizing/images/
 
 <div class="container" display="flex">
 	{{ if eq (.Get "position") "left" }}
-	<div class="col-image">{{ with .Get "image" }}<img src={{ . }} class="center" width="80%">{{ end }}</div>
+	<div class="col-image">{{ with .Get "image" }}<img src={{ . }} class="center" style="height:200px">{{ end }}</div>
 	<div class="col-3" text-align="left">{{ with .Get "text" }}{{ . }}{{ end }}</div>
 	{{ else }}
 	<div class="col-3" text-align="right">{{ with .Get "text" }}{{ . }}{{ end }}</div>
-	<div class="col-image">{{ with .Get "image" }}<img src={{ . }} class="center" width="80%">{{ end }}</div>
+	<div class="col-image">{{ with .Get "image" }}<img src={{ . }} class="center" style="height:200px">{{ end }}</div>
 	{{ end }}
 </div>
