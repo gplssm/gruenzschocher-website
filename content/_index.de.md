@@ -31,6 +31,13 @@ Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretba
 
 {{< imageandtext image="images/Nele_Maja.jpg" position="right" text="Ich bin Nele und arbeite in Berlin als Parkmanagerin im Park am Gleisdreieck. Perspektivisch werde ich mir im Raum Leipzig eine neue Arbeitsstelle suchen. Hier bin ich auch bereit beruflich neue Wege einzuschlagen, wenn das notwendig ist. Derzeit bin ich noch in Elternzeit mit unserer Tochter Maja (1,5 Jahre). Grünzschocher ist für mich der Traum von Platz, Gemeinschaft und dem morgendlichen Kaffee im eigenen Garten. Mit der guten Anbindung an Leipzig hoffe ich auch vor Ort neue Kontakte zu knüpfen und Sportangebote wahrnehmen zu können. Ich mache gerne Musik, Sport im Team, Ausflüge in die Natur und in die Stadt für Kultur." >}}
 
+{{< imageandtext image="images/Katha.jpeg" position="left" text="Ich bin Katha, arbeite als Assistenzärztin in Leipzig, absolviere meine Weiterbildung zur Hausärztin und träume ähnlich wie Ise von  einer eigenen Praxis. An Grünzschcher schätze ich den schönen, großen Garten, die Ruhe und die vielen Entfaltungsmöglichkeiten. Mit dem Wohnprojekt in Grünzschocher verbinde ich die Vision vom  gemeinschaftlichen Leben, dem Teilen von Ressourcen und dem Werkeln in Haus und Garten - bevor wir dann am Abend den Ausblick ins Grüne genießen. " >}}
+
+{{< imageandtext image="images/Guido.jpg" position="right" text="Ich bin Guido, Ingenieur für regenerative Energietechnik  und widme mein berufliches Leben der Umsetzung der Energiewende. Zur Zeit beschäftige ich mich mit automatisiertem Handel von Strom aus erneuerbaren Anlagen und Batteriespeichern. Ich werkele auch gerne und  freue mich darauf uns eine nachhaltige Energieversorgung aufzubauen." >}}
+
+
+{{< imageandtext image="images/Susanne.png" position="left" text="Ich bin Susanne, bin Stadtökologin mit einem Fokus auf Bodenkunde & Bodenschutz, singe in meiner Freizeit in einem Chor, reise am liebsten  per Fahrrad und verbringe viel Zeit an den Leipziger Seen - mit einem Buch in der Hängematte, aber auch das ganze Jahr über badend. Ich lebe seit fast zwanzig Jahren in WGs und kann es mir nicht vorstellen alleine zu wohnen. Im Wohnprojekt in der Neubauernstraße möchte ich langfristig in einer stabilen Gemeinschaft leben." >}}
+
 <!--
 https://hooshmand.net/using-grids-and-columns-in-ghost/
 https://bwaycer.github.io/hugo_tutorial.hugo/extras/shortcodes/#single-named-example-image-with-caption
