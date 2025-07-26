@@ -36,7 +36,8 @@ Wir sind Florian, Guido, Ise, Katharina, Moritz, Nele und Susanne mit drei klein
 
 {{< figure src="images/Gruppenbild_Zwenkau.jpg" alt="Gruppenbild" class="center" >}}
 
-Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik und weitere gemeinsame Interessen. Seit ungefähr fünf Jahren hat uns die Idee gemeinschaftlich wohnen zu wollen als Gruppe enger zusammen wachsen lassen. Nele und Florian wohnen in Berlin, alle anderen Beteiligten leben in Leipzig. Beruflich sind wir bunt gemischt: Ärztin, Bauingenieur, Psychotherapeutin, Bodenkundlerin, Parkmanagerin, Data Scientist und Data Engineer. Hier noch etwas mehr zu uns:
+Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik und weitere gemeinsame Interessen. Seit ungefähr fünf Jahren hat uns die Idee gemeinschaftlich wohnen zu wollen als Gruppe enger zusammen wachsen lassen. Nele und Florian wohnen in Berlin, alle anderen Beteiligten leben in Leipzig. Beruflich sind wir bunt gemischt: Ärztin, Bauingenieur, Psychotherapeutin, Bodenkundlerin, Parkmanagerin, Data Scientist und Data Engineer. 
+<!-- Hier noch etwas mehr zu uns: -->
 
 <!--
 {{< imageandtext image="images/Ise_Kolja_Rumo.jpeg" position="left" text="Ich bin Ise (37) und habe 2 Söhne (Kolja 4 Jahre und Rumo 1 Jahr) zusammen mit Moritz. Ich bin Kinder- und Jugendlichenpsychotherapeutin und zukünftig kann ich mir vorstellen im Großraum Leipzig in einer Praxis oder Klinik tätig zu sein. Ich bin gerne im  Freien mit den Kindern, fahre Fahrrad, liebe Schwimmen auch wenn der See und die Außentemperatur schon etwas kälter sind und genieße Abende mit Freunden und gutem Essen." >}}
