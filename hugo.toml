@@ -28,17 +28,17 @@ since = 2025
 
 
 # Menu config
-  [[menu.main]]
-    weight = 2
-    identifier = "direktkredite"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Unterstützen"
-    url = "/direktkredite/"
-    # title will be shown when you hover on this menu link
-    title = "Wir suche Unterstützung bei der Finanzierung"
+#  [[menu.main]]
+#    weight = 2
+#    identifier = "direktkredite"
+#    # you can add extra information before the name (HTML format is supported), such as icons
+#    pre = ""
+#    # you can add extra information after the name (HTML format is supported), such as icons
+#    post = ""
+#    name = "Unterstützen"
+#    url = "/direktkredite/"
+#    # title will be shown when you hover on this menu link
+#    title = "Wir suche Unterstützung bei der Finanzierung"
 
 
 # Author config
