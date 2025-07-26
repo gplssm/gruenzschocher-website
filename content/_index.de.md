@@ -10,6 +10,8 @@ params:
 
 Wir streben ein gemeinschaftliches Wohnprojekt an und wollen vorstellen, was wir vorhaben und wer wir sind. 
 
+# Grundstück & Haus
+
 Ein ehemaliges Bauernhaus auf einem 1.380 m² großen Grundstück in Grünzschocher - eigentlich Großzschocher, aber sehr nah an Grünau - hat es uns angetan und wir beabsichtigen es zu kaufen.
 Die Lage besticht durch die Nähe zum Cospudener See als auch zum Kulkwitzer See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
 
@@ -21,8 +23,22 @@ Das Haus ist kernsanierungsbedürftig und es muss mehr Wohnraum für die zukünf
 Aufgrund des hohen Grundwasserspiegels in Leipzig wird der Keller bei Regen regelmäßig nass und hat zusätzlich zur Tierhaltung in den Stallungen über die Jahre Spuren am gesamten Objekt hinterlassen. 
 Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretbarem Aufwand zu bewerkstelligen ist. Daher fahren wir zweigleisig und als Plan B den Abriß und Neubau eine Holzhauses im Hinerkopf.
 
+# Wohnen
+
+Das gemeinschaftliche Wohnen realisieren wir in Form von Clusterwohnen mit je einem Satelliten pro Partei - ein Satellit ist ein abgegrenzter Wohnbereich. Wir teilen dabei Küche, Wohnraum, Arbeits-/Büroräume und Gästezimmer. Die einzelnen Satelliten besitzen jeweils ein eigenes Bad und stellen eine eigenständige Wohneinheit dar. Der Anspruch ist, dass der schönste Raum zum Gemeinschaftsraum wird, denn dann füllt er sich auch mit Leben.
+ 
+Zusätzlich sollen gemeinsam genutzte Flächen außerhalb der Wohnbereiche entstehen: Werkstatt, Kreativraum, Außenküche, Fahrradraum, Lagerflächen, Hauswirtschaftsraum/Waschküche und Sauna.
+Altersgerechte Konzepte denken wir bei baulichen Entscheidungen mit, um sie später leichter zu ermöglichen. Darüberhinaus bauen wir so, dass eine Umgestaltung des Clusters mit vertretbarem Aufwand möglich ist, z.B. für den Fall, wenn sich die familiären Situation ändert.
+
 # Wer wir sind
 
+Wir sind Florian, Guido, Ise, Katharina, Moritz, Nele und Susanne mit drei kleinen Kindern, Kolja, Maja und Rumo.
+
+{{< figure src="images/Gruppenbild_Zwenkau.jpg" alt="Gruppenbild" class="center" >}}
+
+Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik und weitere gemeinsame Interessen. Seit ungefähr fünf Jahren hat uns die Idee gemeinschaftlich wohnen zu wollen als Gruppe enger zusammen wachsen lassen. Nele und Florian wohnen in Berlin, alle anderen Beteiligten leben in Leipzig. Beruflich sind wir bunt gemischt: Ärztin, Bauingenieur, Psychotherapeutin, Bodenkundlerin, Parkmanagerin, Data Scientist und Data Engineer. Hier noch etwas mehr zu uns:
+
+<!--
 {{< imageandtext image="images/Ise_Kolja_Rumo.jpeg" position="left" text="Ich bin Ise (37) und habe 2 Söhne (Kolja 4 Jahre und Rumo 1 Jahr) zusammen mit Moritz. Ich bin Kinder- und Jugendlichenpsychotherapeutin und zukünftig kann ich mir vorstellen im Großraum Leipzig in einer Praxis oder Klinik tätig zu sein. Ich bin gerne im  Freien mit den Kindern, fahre Fahrrad, liebe Schwimmen auch wenn der See und die Außentemperatur schon etwas kälter sind und genieße Abende mit Freunden und gutem Essen." >}}
 
 {{< imageandtext image="images/Moritz_Kolja.jpg" position="right" text="Ich bin Moritz, Vater von Kolja und Rumo und wohne mit meiner Familie in Leipzig. Beruflich bin ich ausgebildeter Umweltwissenschaftler und arbeite als Data Engineer im Bereich der nachhaltigen Mobilität. Ich möchte gerne raus aus der Großstadt und dem isolierten Familienleben und gemeinschaftlich im Grünen leben ohne die städtischen Vorzügen gänzlich zu missen. Wenn ich nicht mit Care- oder Lohnarbeit beschäftigt bin, fahre ich gerne Fahrrad, koche (Kaffee) und genieße Zeit mit Freunden und Familie." >}}
@@ -36,7 +52,8 @@ Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretba
 {{< imageandtext image="images/Guido.jpg" position="right" text="Ich bin Guido, Ingenieur für regenerative Energietechnik  und widme mein berufliches Leben der Umsetzung der Energiewende. Zur Zeit beschäftige ich mich mit automatisiertem Handel von Strom aus erneuerbaren Anlagen und Batteriespeichern. Ich werkele auch gerne und  freue mich darauf uns eine nachhaltige Energieversorgung aufzubauen." >}}
 
 
-{{< imageandtext image="images/Susanne.png" position="left" text="Ich bin Susanne, bin Stadtökologin mit einem Fokus auf Bodenkunde & Bodenschutz, singe in meiner Freizeit in einem Chor, reise am liebsten  per Fahrrad und verbringe viel Zeit an den Leipziger Seen - mit einem Buch in der Hängematte, aber auch das ganze Jahr über badend. Ich lebe seit fast zwanzig Jahren in WGs und kann es mir nicht vorstellen alleine zu wohnen. Im Wohnprojekt in der Neubauernstraße möchte ich langfristig in einer stabilen Gemeinschaft leben." >}}
+{{< imageandtext image="images/Susanne.png" position="left" text="Ich bin Susanne, bin Bodenkundlerin mit einem Fokus auf Bodenkunde & Bodenschutz, singe in meiner Freizeit in einem Chor, reise am liebsten  per Fahrrad und verbringe viel Zeit an den Leipziger Seen - mit einem Buch in der Hängematte, aber auch das ganze Jahr über badend. Ich lebe seit fast zwanzig Jahren in WGs und kann es mir nicht vorstellen alleine zu wohnen. Im Wohnprojekt in der Neubauernstraße möchte ich langfristig in einer stabilen Gemeinschaft leben." >}}
+-->
 
 <!--
 https://hooshmand.net/using-grids-and-columns-in-ghost/
