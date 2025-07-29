@@ -19,7 +19,7 @@ jobs:
           hugo-version: '0.148.1'
 
       - name: Build Hugo Site
-        run: hugo --minify
+        run: hugo build --minify
 
       - name: Setup SSH Agent and Deploy with rsync
         uses: webfactory/ssh-agent@v0.9.0
