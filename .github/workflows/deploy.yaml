@@ -28,6 +28,7 @@ jobs:
 
       - name: Deploy via rsync over SSH
         run: |
+          ls public -a
           rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
             public/ \
             ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_TARGET_DIR }}
