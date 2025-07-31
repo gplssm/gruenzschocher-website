@@ -6,16 +6,22 @@ params:
       image: "123"
 ---
 
-# Das Projekt
+# Wer wir sind
 
-Wir streben ein gemeinschaftliches Wohnprojekt an und wollen vorstellen, was wir vorhaben und wer wir sind. 
+Wir sind Florian, Guido, Ise, Katharina, Moritz, Nele und Susanne mit drei kleinen Kindern, Kolja, Maja und Rumo.
+Wir streben ein gemeinschaftliches Wohnprojekt an und wollen vorstellen, wer wir sind und was wir vorhaben.
+
+{{< figure src="images/Gruppenbild_Zwenkau.jpg" alt="Gruppenbild" class="center" width="90%">}}
+
+Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik und weitere gemeinsame Interessen. Seit ungefähr fünf Jahren hat uns die Idee gemeinschaftlich wohnen zu wollen als Gruppe enger zusammen wachsen lassen. Nele und Florian wohnen in Berlin, alle anderen Beteiligten leben in Leipzig. Beruflich sind wir bunt gemischt: Ärztin, Bauingenieur, Psychotherapeutin, Bodenkundlerin, Parkmanagerin, Data Scientist und Data Engineer. 
+
 
 # Grundstück & Haus
 
 Ein ehemaliges Bauernhaus auf einem 1.380 m² großen Grundstück in Grünzschocher - eigentlich Großzschocher, aber sehr nah an Grünau - hat es uns angetan und wir beabsichtigen es zu kaufen.
 Die Lage besticht durch die Nähe zum Cospudener See als auch zum Kulkwitzer See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
 
-{{< figure src="images/Gruenzschocher_title_image.png" alt="Skizze des Langhauses" class="center" >}}
+<!-- {{< figure src="images/Gruenzschocher_title_image.png" alt="Skizze des Langhauses" class="center" >}} -->
 
 Das in den 1940ern gebaute und 1950ern erneuerte Gebäude ist dreigeteilt in Wohnhaus, Stallungen und eine Werkstatt. 
 Hier wurden früher Schweine, Kühe und Pferde gehalten und Segelboote gebaut.
@@ -30,13 +36,9 @@ Das gemeinschaftliche Wohnen realisieren wir in Form von Clusterwohnen mit je ei
 Zusätzlich sollen gemeinsam genutzte Flächen außerhalb der Wohnbereiche entstehen: Werkstatt, Kreativraum, Außenküche, Fahrradraum, Lagerflächen, Hauswirtschaftsraum/Waschküche und Sauna.
 Altersgerechte Konzepte denken wir bei baulichen Entscheidungen mit, um sie später leichter zu ermöglichen. Darüberhinaus bauen wir so, dass eine Umgestaltung des Clusters mit vertretbarem Aufwand möglich ist, z.B. für den Fall, wenn sich die familiären Situation ändert.
 
-# Wer wir sind
 
-Wir sind Florian, Guido, Ise, Katharina, Moritz, Nele und Susanne mit drei kleinen Kindern, Kolja, Maja und Rumo.
 
-{{< figure src="images/Gruppenbild_Zwenkau.jpg" alt="Gruppenbild" class="center" >}}
 
-Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik und weitere gemeinsame Interessen. Seit ungefähr fünf Jahren hat uns die Idee gemeinschaftlich wohnen zu wollen als Gruppe enger zusammen wachsen lassen. Nele und Florian wohnen in Berlin, alle anderen Beteiligten leben in Leipzig. Beruflich sind wir bunt gemischt: Ärztin, Bauingenieur, Psychotherapeutin, Bodenkundlerin, Parkmanagerin, Data Scientist und Data Engineer. 
 <!-- Hier noch etwas mehr zu uns: -->
 
 <!--
@@ -54,10 +56,4 @@ Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik u
 
 
 {{< imageandtext image="images/Susanne.png" position="left" text="Ich bin Susanne, bin Bodenkundlerin mit einem Fokus auf Bodenkunde & Bodenschutz, singe in meiner Freizeit in einem Chor, reise am liebsten  per Fahrrad und verbringe viel Zeit an den Leipziger Seen - mit einem Buch in der Hängematte, aber auch das ganze Jahr über badend. Ich lebe seit fast zwanzig Jahren in WGs und kann es mir nicht vorstellen alleine zu wohnen. Im Wohnprojekt in der Neubauernstraße möchte ich langfristig in einer stabilen Gemeinschaft leben." >}}
--->
-
-<!--
-https://hooshmand.net/using-grids-and-columns-in-ghost/
-https://bwaycer.github.io/hugo_tutorial.hugo/extras/shortcodes/#single-named-example-image-with-caption
-https://discourse.gohugo.io/t/how-can-i-add-columns-into-my-page-using-shortcode/20201/2 
 -->
