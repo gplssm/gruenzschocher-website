@@ -23,11 +23,11 @@ Die Lage besticht sowohl durch die Nähe zum Cospudener See als auch zum Kulkwit
 
 <!-- {{< figure src="images/Gruenzschocher_title_image.png" alt="Skizze des Langhauses" class="center" >}} -->
 
-Das in den 1940ern gebaute und 1950ern erneuerte Gebäude ist dreigeteilt in Wohnhaus, Stallungen und eine Werkstatt. 
-Hier wurden früher Schweine, Kühe und Pferde gehalten und Segelboote gebaut.
+Das in den 1940ern gebaute und 1950ern erneuerte Gebäude ist dreigeteilt in Wohnhaus, Stallungen und Werkstatt.
+Hier wurde früher gewohnt, Schweine, Kühe und Pferde gehalten und Segelboote gebaut.
 Das Haus ist kernsanierungsbedürftig und es muss mehr Wohnraum für die zukünftigen Bewohner\*innen geschafften werden.
-Aufgrund des hohen Grundwasserspiegels in Leipzig wird der Keller bei Regen regelmäßig nass und hat zusätzlich zur Tierhaltung in den Stallungen über die Jahre Spuren am gesamten Objekt hinterlassen. 
-Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretbarem Aufwand zu bewerkstelligen ist. Daher fahren wir zweigleisig und als Plan B den Abriss und Neubau eine Holzhauses im Hinterkopf.
+Aufgrund des hohen Grundwasserspiegels in Leipzig wird der Keller bei Regen regelmäßig nass, der Regen hat zusätzlich zur Tierhaltung über die Jahre Spuren am gesamten Objekt hinterlassen.
+Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretbarem Aufwand zu bewerkstelligen ist. Daher fahren wir zweigleisig und haben als Plan B den Abriss und Neubau eine Holzhauses im Hinterkopf.
 
 # Wohnen
 
