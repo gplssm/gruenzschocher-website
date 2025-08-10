@@ -19,22 +19,22 @@ Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik u
 # Grundstück & Haus
 
 Ein ehemaliges Bauernhaus auf einem 1.380 m² großen Grundstück in Grünzschocher - eigentlich Großzschocher, aber sehr nah an Grünau - hat es uns angetan und wir beabsichtigen es zu kaufen.
-Die Lage besticht durch die Nähe zum Cospudener See als auch zum Kulkwitzer See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
+Die Lage besticht sowohl durch die Nähe zum Cospudener See als auch zum Kulkwitzer See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
 
 <!-- {{< figure src="images/Gruenzschocher_title_image.png" alt="Skizze des Langhauses" class="center" >}} -->
 
-Das in den 1940ern gebaute und 1950ern erneuerte Gebäude ist dreigeteilt in Wohnhaus, Stallungen und eine Werkstatt. 
-Hier wurden früher Schweine, Kühe und Pferde gehalten und Segelboote gebaut.
+Das in den 1940ern gebaute und 1950ern erneuerte Gebäude ist dreigeteilt in Wohnhaus, Stallungen und Werkstatt.
+Hier wurde früher gewohnt, Schweine, Kühe und Pferde gehalten und Segelboote gebaut.
 Das Haus ist kernsanierungsbedürftig und es muss mehr Wohnraum für die zukünftigen Bewohner\*innen geschafften werden.
-Aufgrund des hohen Grundwasserspiegels in Leipzig wird der Keller bei Regen regelmäßig nass und hat zusätzlich zur Tierhaltung in den Stallungen über die Jahre Spuren am gesamten Objekt hinterlassen. 
-Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretbarem Aufwand zu bewerkstelligen ist. Daher fahren wir zweigleisig und als Plan B den Abriss und Neubau eine Holzhauses im Hinterkopf.
+Aufgrund des hohen Grundwasserspiegels in Leipzig wird der Keller bei Regen regelmäßig nass, der Regen hat zusätzlich zur Tierhaltung über die Jahre Spuren am gesamten Objekt hinterlassen.
+Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretbarem Aufwand zu bewerkstelligen ist. Daher fahren wir zweigleisig und haben als Plan B den Abriss und Neubau eine Holzhauses im Hinterkopf.
 
 # Wohnen
 
 Das gemeinschaftliche Wohnen realisieren wir in Form von Clusterwohnen mit je einem Satelliten pro Partei - ein Satellit ist ein abgegrenzter Wohnbereich. Wir teilen dabei Küche, Wohnraum, Arbeits-/Büroräume und Gästezimmer. Die einzelnen Satelliten besitzen jeweils ein eigenes Bad und stellen eine eigenständige Wohneinheit dar. Der Anspruch ist, dass der schönste Raum zum Gemeinschaftsraum wird, denn dann füllt er sich auch mit Leben.
  
 Zusätzlich sollen gemeinsam genutzte Flächen außerhalb der Wohnbereiche entstehen: Werkstatt, Kreativraum, Außenküche, Fahrradraum, Lagerflächen, Hauswirtschaftsraum/Waschküche und Sauna.
-Altersgerechte Konzepte denken wir bei baulichen Entscheidungen mit, um sie später leichter zu ermöglichen. Darüberhinaus bauen wir so, dass eine Umgestaltung des Clusters mit vertretbarem Aufwand möglich ist, z.B. für den Fall, wenn sich die familiären Situation ändert.
+Altersgerechte Konzepte denken wir bei baulichen Entscheidungen mit, um sie später leichter zu ermöglichen. Darüberhinaus bauen wir so, dass eine Umgestaltung des Clusters mit vertretbarem Aufwand möglich ist, z.B. für den Fall, wenn sich die familiäre Situation ändert.
 
 
 
