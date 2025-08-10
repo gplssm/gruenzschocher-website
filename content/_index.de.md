@@ -27,7 +27,7 @@ Das in den 1940ern gebaute und 1950ern erneuerte Gebäude ist dreigeteilt in Woh
 Hier wurden früher Schweine, Kühe und Pferde gehalten und Segelboote gebaut.
 Das Haus ist kernsanierungsbedürftig und es muss mehr Wohnraum für die zukünftigen Bewohner\*innen geschafften werden.
 Aufgrund des hohen Grundwasserspiegels in Leipzig wird der Keller bei Regen regelmäßig nass und hat zusätzlich zur Tierhaltung in den Stallungen über die Jahre Spuren am gesamten Objekt hinterlassen. 
-Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretbarem Aufwand zu bewerkstelligen ist. Daher fahren wir zweigleisig und als Plan B den Abriß und Neubau eine Holzhauses im Hinerkopf.
+Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretbarem Aufwand zu bewerkstelligen ist. Daher fahren wir zweigleisig und als Plan B den Abriss und Neubau eine Holzhauses im Hinterkopf.
 
 # Wohnen
 
