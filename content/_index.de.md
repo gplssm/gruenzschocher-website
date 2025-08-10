@@ -19,7 +19,7 @@ Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik u
 # Grundstück & Haus
 
 Ein ehemaliges Bauernhaus auf einem 1.380 m² großen Grundstück in Grünzschocher - eigentlich Großzschocher, aber sehr nah an Grünau - hat es uns angetan und wir beabsichtigen es zu kaufen.
-Die Lage besticht durch die Nähe zum Cospudener See als auch zum Kulkwitzer See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
+Die Lage besticht sowohl durch die Nähe zum Cospudener See als auch zum Kulkwitzer See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
 
 <!-- {{< figure src="images/Gruenzschocher_title_image.png" alt="Skizze des Langhauses" class="center" >}} -->
 
@@ -34,7 +34,7 @@ Wir streben an das Haus zu sanieren, aber es ist fraglich, ob dies mit vertretba
 Das gemeinschaftliche Wohnen realisieren wir in Form von Clusterwohnen mit je einem Satelliten pro Partei - ein Satellit ist ein abgegrenzter Wohnbereich. Wir teilen dabei Küche, Wohnraum, Arbeits-/Büroräume und Gästezimmer. Die einzelnen Satelliten besitzen jeweils ein eigenes Bad und stellen eine eigenständige Wohneinheit dar. Der Anspruch ist, dass der schönste Raum zum Gemeinschaftsraum wird, denn dann füllt er sich auch mit Leben.
  
 Zusätzlich sollen gemeinsam genutzte Flächen außerhalb der Wohnbereiche entstehen: Werkstatt, Kreativraum, Außenküche, Fahrradraum, Lagerflächen, Hauswirtschaftsraum/Waschküche und Sauna.
-Altersgerechte Konzepte denken wir bei baulichen Entscheidungen mit, um sie später leichter zu ermöglichen. Darüberhinaus bauen wir so, dass eine Umgestaltung des Clusters mit vertretbarem Aufwand möglich ist, z.B. für den Fall, wenn sich die familiären Situation ändert.
+Altersgerechte Konzepte denken wir bei baulichen Entscheidungen mit, um sie später leichter zu ermöglichen. Darüberhinaus bauen wir so, dass eine Umgestaltung des Clusters mit vertretbarem Aufwand möglich ist, z.B. für den Fall, wenn sich die familiäre Situation ändert.
 
 
 
