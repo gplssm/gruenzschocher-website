@@ -14,7 +14,7 @@ defaultTheme = 'light'
 #name = "Grünzschocher"
 name = ""
 logo = ""
-pre = "<img style='vertical-align: middle' src='/images/gruenzschocher-logo-grafitti-font.png' height=75> "
+pre = "<img style='vertical-align: middle' src='/images/gruenzschocher-logo-grafitti-font-cropped.png' height=75> "
 post = ""
 
 [params.home.profile]
