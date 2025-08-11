@@ -20,12 +20,6 @@ jobs:
           ref: ${{github.event.pull_request.head.ref}}
           repository: ${{github.event.pull_request.head.repo.full_name}}
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.148.1'
-          extended: true
-
       - name: Build Hugo Site
         run: hugo build --minify --baseURL "https://staging.gruenzschocher.de/${{ github.event.number }}"
 
