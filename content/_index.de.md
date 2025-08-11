@@ -19,7 +19,7 @@ Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik u
 # Grundstück & Haus
 
 Ein ehemaliges Bauernhaus auf einem 1.380 m² großen Grundstück in Grünzschocher - eigentlich Großzschocher, aber sehr nah an Grünau - hat es uns angetan und wir beabsichtigen es zu kaufen.
-Die Lage besticht sowohl durch die Nähe zum Cospudener See als auch zum Kulkwitzer See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
+Die Lage besticht sowohl durch die Nähe zum Kulkwitzer See als auch zum Cospudener See. Es ist dörflich ruhig, dennoch ist das Großstadtleben durch die gute Verkehrsanbindung nicht weit entfernt. 
 
 <!-- {{< figure src="images/Gruenzschocher_title_image.png" alt="Skizze des Langhauses" class="center" >}} -->
 
