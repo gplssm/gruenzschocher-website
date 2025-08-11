@@ -1,0 +1,36 @@
+# inspired by https://github.com/BBaoVanC/bbaovanc.com/blob/2b38b143b169c240adf973f5ea37a42641a87ec0/.github/workflows/pull_request.yml
+name: Pull Request
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+          fetch-depth: 0
+          ref: ${{github.event.pull_request.head.ref}}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
+
+      - name: Build Hugo Site
+        run: hugo build --minify --baseURL "https://staging.gruenzschocher.de/${{ github.event.number }}"
+
+      - name: Setup SSH Agent and Deploy with rsync
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Deploy via rsync over SSH
+        run: |
+          ls public -a
+          rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
+            public/ \
+            ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_TARGET_DIR_STAGING }}/${{ github.event.number }}
