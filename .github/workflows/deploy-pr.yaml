@@ -40,3 +40,23 @@ jobs:
           rsync -avz --no-times --no-perms --delete -e "ssh -o StrictHostKeyChecking=no" \
             public/ \
             ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_TARGET_DIR_STAGING }}/${{ github.event.number }}
+
+      - name: Find PR comment
+        uses: peter-evans/find-comment@v1
+        id: fc
+        with:
+          issue-number: ${{ github.event.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: "preview of this pull request"
+
+      - name: Comment on PR
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          issue-number: ${{ github.event.number }}
+          body: |
+            A preview of this pull request is ready!
+            See it at https://staging.gruenzschocher.de/${{ github.event.number }}/
+            View the deploy log at https://github.com/gplssm/gruenzschocher-website/actions/runs/${{ github.run_id}}
+            Please note that currently the comment system is only operational on real deploys on gruenzschocher.de. If you see an error, it's probably not your fault.
+          edit-mode: replace
