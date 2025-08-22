@@ -6,7 +6,7 @@ params:
       image: "123"
 ---
 
-{{< callout message="Wir brauchen eure Unterstützung! {{< ref "/tanzkurse/#anmeldung" >}}" >}}
+{{< callout message="Wir brauchen eure [Unterstützung](https://gruenzschocher.de/direktkredite)! >}}
 
 # Wer wir sind
 
