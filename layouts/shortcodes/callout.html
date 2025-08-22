@@ -1,5 +1,5 @@
 <div class="callout">
     <div class="callout-container">
-        <p>{{ with .Get "message" }}{{ . }}{{ end }}</p>
+        <p style="text-align: center;">{{ with .Get "message" }}{{ . | markdownify }}{{ end }}</p>
     </div>
 </div>
