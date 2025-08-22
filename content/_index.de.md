@@ -6,6 +6,8 @@ params:
       image: "123"
 ---
 
+{{< callout message="Wir brauchen eure Unterstützung! {{< ref "/tanzkurse/#anmeldung" >}}" >}}
+
 # Wer wir sind
 
 Wir sind Florian, Guido, Ise, Katharina, Moritz, Nele und Susanne mit drei kleinen Kindern, Kolja, Maja und Rumo.
