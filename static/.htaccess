@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Bitte Zugangsdaten eingeben"
-AuthUserFile /home/sites/site100019389/web/gruenzschocher.de/.htpasswd
-Require valid-user
