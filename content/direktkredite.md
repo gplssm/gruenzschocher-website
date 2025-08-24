@@ -3,10 +3,25 @@ title: Direktkredit
 slug: direktkredite
 ---
 
-Die Finanzierung unseres gemeinschaftlichen Wohnhauses ist eine Herausforderung
+# Solidarisch wirtschaften statt spekulieren
+
+Wir haben uns für die Rechtsform einer **eingetragenen Gesellschaft bürgerlichen Rechts (eGbR)** entschieden – aber solidarisch gedacht:
+Das bedeutet, wir wollen Haus und Grundstück **dauerhaft dem Immobilienmarkt entziehen** und so der Spekulation entgegentreten.
 
 {{< figure src="images/Grafik vom Flyer_transparenter Hintergrund_gute Quali.png" alt="Finanzflüsse im Wohnprojekt Grünzschocher" class="center" width="80%"  >}}
 
+Deshalb verwenden wir die monatlichen Zahlungen (vergleichbar mit Mieten) zweigleisig:
+- **Ein Teil bleibt im Projekt**, um Rücklagen zu bilden, Schulden abzutragen und langfristig bezahlbaren Wohnraum zu sichern.
+- **Ein anderer Teil gehört den Gesellschafter\*innen**. Anders als in einer Genossenschaft sind die monatlichen Zahlungen also nicht nur Miete, sondern auch ein Stück gemeinschaftlicher Besitz. 
+So schaffen wir einen solidarischen Ausgleich: Die Gründergeneration, die das größte finanzielle Risiko trägt – hohe Anfangszahlungen, Kredite, persönliche Haftung – wird entlastet. Gleichzeitig bleibt das Projekt auf Dauer **stabil, solidarisch und erschwinglich** für künftige Bewohner*innen.
+
+# Direktkredite
+
+Um diesen Traum zu verwirklichen, brauchen wir **Menschen, die ihr Geld dort anlegen möchten, wo es direkt nachhaltig Wirkung entfaltet**.
+Das Grundstück mit dem sanierungsbedürftigen Haus können wir mit unserem Eigenkapital erwerben, für die Sanierung bzw. den Neubau werden wir einen Bankkredit aufnehmen. Um diesen Kredit zu bezahlbaren Konditionen zu bekommen, müssen wir unser Eigenkapital mit eurer Hilfe in Form von Direktkrediten aufstocken.
+
+
+# Frage? Antworten!
 
 {{< admonition type=tip title="Was ist ein Direktkredit?" open=false >}}
 Ein Direktkredit (Nachrangdarlehen) bedeutet: Ihr leiht uns als Projektgemeinschaft Geld – direkt und ohne Bank dazwischen. 
