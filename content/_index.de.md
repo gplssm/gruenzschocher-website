@@ -6,6 +6,8 @@ params:
       image: "123"
 ---
 
+{{< callout message="Wir brauchen eure Unterstützung! Informiert euch über die Möglichkeit das Projekt mit [Direktkrediten](direktkredite) zu unterstützen." >}}
+
 # Wer wir sind
 
 Wir sind Florian, Guido, Ise, Katharina, Moritz, Nele und Susanne mit drei kleinen Kindern, Kolja, Maja und Rumo.
