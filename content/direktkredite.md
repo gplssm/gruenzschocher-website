@@ -1,24 +1,31 @@
 ---
-title: Direktkredit
+title: ""
 slug: direktkredite
 ---
 
 # Solidarisch wirtschaften statt spekulieren
 
-Wir haben uns für die Rechtsform einer **eingetragenen Gesellschaft bürgerlichen Rechts (eGbR)** entschieden – aber solidarisch gedacht:
-Das bedeutet, wir wollen Haus und Grundstück **dauerhaft dem Immobilienmarkt entziehen** und so der Spekulation entgegentreten.
+Wir haben uns für die Rechtsform einer **eingetragenen Genossenschaft (eG)** entschieden – eine seit über 100 Jahren und gut erprobte Rechtsform zur Wohnraumverwaltung.
+Dies ermöglicht Haus und Grundstück **dauerhaft dem Immobilienmarkt entziehen** und somit **langfristig bezahlbare Miete** für die Bewohner*innen zu ermöglich, anstatt durch Spekulation Gewinne für Wenige zu generieren.
 
 {{< figure src="images/Grafik vom Flyer_transparenter Hintergrund_gute Quali.png" alt="Finanzflüsse im Wohnprojekt Grünzschocher" class="center" width="80%"  >}}
 
-Deshalb verwenden wir die monatlichen Zahlungen (vergleichbar mit Mieten) zweigleisig:
-- **Ein Teil bleibt im Projekt**, um Rücklagen zu bilden, Schulden abzutragen und langfristig bezahlbaren Wohnraum zu sichern.
-- **Ein anderer Teil gehört den Gesellschafter\*innen**. Anders als in einer Genossenschaft sind die monatlichen Zahlungen also nicht nur Miete, sondern auch ein Stück gemeinschaftlicher Besitz. 
-So schaffen wir einen solidarischen Ausgleich: Die Gründergeneration, die das größte finanzielle Risiko trägt – hohe Anfangszahlungen, Kredite, persönliche Haftung – wird entlastet. Gleichzeitig bleibt das Projekt auf Dauer **stabil, solidarisch und erschwinglich** für künftige Bewohner*innen.
+Die Bewohner\*innen sind gleichzeitig Genoss\*innen. Mit Einlagen stellen sie der Genossenschaft Eigenkapital zur Verfügung und senken somit den Bedarf an Fremdkapital.
+Durch monatliche Mietzahlung werden Betriebskosten, Zins- und Tilgungszahlungen gedeckt.
+Verlassen Bewohner\*innen das Projekt, erhalten sie ihre Einlagen zurück.
 
-# Direktkredite
+
+# Unterstützer\*innen
 
 Um diesen Traum zu verwirklichen, brauchen wir **Menschen, die ihr Geld dort anlegen möchten, wo es direkt nachhaltig Wirkung entfaltet**.
-Das Grundstück mit dem sanierungsbedürftigen Haus können wir mit unserem Eigenkapital erwerben, für die Sanierung bzw. den Neubau werden wir einen Bankkredit aufnehmen. Um diesen Kredit zu bezahlbaren Konditionen zu bekommen, müssen wir unser Eigenkapital mit eurer Hilfe in Form von Direktkrediten aufstocken.
+Das Grundstück mit dem sanierungsbedürftigen Haus können wir mit dem Eigenkapital der Genossenschaft -- bereitgestellt durch die Einlagen der zukünftigen Bewohner\*innen -- erwerben.
+Für die Sanierung bzw. den Neubau werden wir einen Bankkredit aufnehmen. Um diesen Kredit zu bezahlbaren Konditionen zu bekommen, müssen wir unser Eigenkapital mit eurer Hilfe aufstocken.
+Es gibt zwei Möglichkeiten der Unterstützung:
+- **Investierende Mitglieder**: Ihr könnt investierendes Mitglied werden und mit Einlagen das Eigenkapital der Genossenschaft erhöhen
+- **Direktkredite**: Ihr könnt dem Projekt in Form von Nachrangdarlehen Geld leihen
+
+Bevorzugt nehmen wir Unterstützung investierender Mitglieder entgegen, da dies von der Bank besser bewertet wird.
+Alternativ freuen wir uns aber auch über Direktkredite.
 
 
 # Frage? Antworten!
