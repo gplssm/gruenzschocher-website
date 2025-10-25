@@ -26,6 +26,7 @@ enable = true
 author = false
 copyright = false
 since = 2025
+# Simple markdown relative references do not point to correct page - baseURL missing PR-number in staging environment
 custom = "[Impressum](/impressum) | [Datenschutzerklärung](/datenschutz)"
 
 
