@@ -8,7 +8,7 @@ slug: datenschutz
 
 **Verantwortlich im Sinne der Datenschutzgesetze:**  
 
-Name und Anschrift des Datenschutzverantortlichen finden sich im [Impressum](https://gruenzschocher.de/impressum).
+Name und Anschrift des Datenschutzverantortlichen finden sich im [Impressum](/impressum).
 
 
 ## 2. Allgemeines
@@ -63,5 +63,3 @@ Sollten Sie dennoch Fragen zum Datenschutz oder zur Datensicherheit haben, könn
 ## 8. Änderungen dieser Datenschutzerklärung
 
 Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht.  
-Die jeweils aktuelle Fassung finden Sie jederzeit unter:  
-👉 [https://gruenzschocher.de/Datenschutzerklaerung](https://gruenzschocher.de/Datenschutzerklaerung)
