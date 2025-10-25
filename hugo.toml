@@ -22,9 +22,11 @@ subtitle = "Ein Wohnprojekt in Gründung"
 title = "Willkommen in Grünzschocher"
 
 [params.footer]
+enable = true
 author = false
 copyright = false
 since = 2025
+custom = "<a href='/impressum/'>Impressum</a> | <a href='/datenschutz/'>Datenschutzerklärung</a>"
 
 
 # Menu config
@@ -66,3 +68,7 @@ Instagram = false
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
     #style = 'monokai'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      headingAnchor = false
