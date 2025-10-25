@@ -26,7 +26,7 @@ enable = true
 author = false
 copyright = false
 since = 2025
-custom = "<a href='/impressum/'>Impressum</a> | <a href='/datenschutz/'>Datenschutzerklärung</a>"
+custom = "[Impressum](/impressum) | [Datenschutzerklärung](/datenschutz)"
 
 
 # Menu config
@@ -40,7 +40,7 @@ custom = "<a href='/impressum/'>Impressum</a> | <a href='/datenschutz/'>Datensch
     name = "Unterstützen"
     url = "/direktkredite/"
     # title will be shown when you hover on this menu link
-    title = "Wir suche Unterstützung bei der Finanzierung"
+    title = "Wir suchen Unterstützung bei der Finanzierung"
 
 
 # Author config

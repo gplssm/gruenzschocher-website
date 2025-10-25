@@ -3,9 +3,6 @@ title: Datenschutzerklärung
 slug: datenschutz
 ---
 
-# Datenschutzerklärung
-
-asd
 
 ## 1. Verantwortlicher
 
