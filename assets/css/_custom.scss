@@ -54,6 +54,14 @@
   color: $global-font-color;
 }
 
+/* Impressum */
+.impressum-box {
+  width: 70%; 
+  padding: 15px;
+  color: $global-font-color;
+  justify-self: center;
+}
+
 
 @media screen and (max-width: 900px) {
     .flex-item {
@@ -75,5 +83,9 @@
 
     .portrait-image {
         height: auto !important;
+    }
+
+    .impressum-box {
+        width: 100%;
     }
 }
