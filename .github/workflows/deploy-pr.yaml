@@ -27,7 +27,7 @@ jobs:
           extended: true
 
       - name: Build Hugo Site
-        run: hugo build --minify --baseURL "https://staging.gruenzschocher.de/${{ github.event.number }}"
+        run: hugo build --minify --baseURL "https://staging.gruenzschocher.de/${{ github.event.number }}/"
 
       - name: Setup SSH Agent and Deploy with rsync
         uses: webfactory/ssh-agent@v0.9.0
