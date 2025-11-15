@@ -4,7 +4,8 @@
             {{- /* Custom Content */ -}}
             {{- with .Site.Params.footer.custom -}}
                 <div class="footer-line">
-                    {{- . | markdownify -}}
+                    <!-- {{- . | markdownify -}} -->
+                    <a href={{- absURL "impressum" | markdownify  -}}>Impressum</a> | <a href={{- absURL "datenschutz" | markdownify  -}}>Datenschutzerklärung</a>
                 </div>
             {{- end -}}
 
