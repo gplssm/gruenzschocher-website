@@ -10,10 +10,10 @@ params:
 
 # Wer wir sind
 
-Wir sind Florian, Guido, Katharina, Nele und Susanne mit einem kleines Kind Maja.
+Wir sind Florian, Guido, Katharina, Nele und Susanne.
 Wir streben ein gemeinschaftliches Wohnprojekt an und wollen vorstellen, wer wir sind und was wir vorhaben.
 
-{{< figure src="images/gruppenbild-zu-fuenft.jpeg" alt="Gruppenbild" class="center" width="90%">}}
+{{< figure src="images/gruppenbild-zu-fuenft-cropped.jpeg" alt="Gruppenbild" class="center" width="90%">}}
 
 Viele von uns verbinden schon viele Jahre als Freund\*innen durch Sport, Musik und weitere gemeinsame Interessen. Seit ungefähr fünf Jahren hat uns die Idee gemeinschaftlich wohnen zu wollen als Gruppe enger zusammen wachsen lassen. Nele und Florian wohnen in Berlin, alle anderen Beteiligten leben in Leipzig. Beruflich sind wir bunt gemischt: Ärztin, Bauingenieur, Bodenkundlerin, Parkmanagerin und Data Scientist. 
 
