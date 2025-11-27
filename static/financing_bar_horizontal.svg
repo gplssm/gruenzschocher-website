@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100%" height="360" viewBox="0 0 1400 360"
+     style="font-family: sans-serif;"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+
+  <!-- Hintergrundbalken -->
+  <rect x="100" y="150" width="1200" height="90" rx="0" ry="0" fill="#eee"/>
+
+  <!-- 1: Bewohnende Mitglieder – 35% -->
+  <g>
+    <text x="100" y="105" opacity="0" class="label l1">Bewohnende Mitglieder</text>
+    <rect id="r1" x="100" y="150" width="0" height="90" fill="#4CAF50"/>
+    <text id="t1" x="100" y="140" opacity="0" class="pct">35 %</text>
+  </g>
+
+  <!-- 2: Investierende Mitglieder – 20% -->
+  <g>
+    <text x="520" y="60" opacity="0" class="label l2">Investierende Mitglieder</text>
+    <rect id="r2" x="520" y="150" width="0" height="90" fill="#81C784"/>
+    <text id="t2" x="520" y="140" opacity="0" class="pct">55 %</text>
+  </g>
+
+  <!-- 3: KfW – 20% -->
+  <g>
+    <text x="760" y="105" opacity="0" class="label l3">KfW Förderkredit</text>
+    <rect id="r3" x="760" y="150" width="0" height="90" fill="#2196F3"/>
+    <text id="t3" x="760" y="140" opacity="0" class="pct">75 %</text>
+  </g>
+
+  <!-- 4: SAB – 5% -->
+  <g>
+    <text x="1000" y="60" opacity="0" class="label l4">SAB Förderkredit</text>
+    <rect id="r4" x="1000" y="150" width="0" height="90" fill="#64B5F6"/>
+    <text id="t4" x="1000" y="140" opacity="0" class="pct">80 %</text>
+  </g>
+
+  <!-- 5: Bankkredit – 20% -->
+  <g>
+    <text x="1060" y="105" opacity="0" class="label l5">Bankkredit</text>
+    <rect id="r5" x="1060" y="150" width="0" height="90" fill="#8E7CA3"/>
+    <text id="t5" x="1060" y="140" opacity="0" class="pct">100 %</text>
+  </g>
+<style>
+/* Label-Einblendung */
+    .label {
+      font-size: 24px;
+      font-weight: 600;
+      animation: fadeIn .5s forwards;
+    }
+    .l1 { animation-delay: 0s; }
+    .l2 { animation-delay: 3.5s; }
+    .l3 { animation-delay: 5.5s; }
+    .l4 { animation-delay: 7.5s; }
+    .l5 { animation-delay: 8s; }
+
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    /* Prozent-Einblendung */
+    .pct {
+      font-size: 26px;
+      font-weight: 700;
+      animation: pctFade .4s forwards;
+    }
+    @keyframes pctFade { to { opacity: 1; } }
+
+    /* Balken füllen über width */
+    #r1 { animation: w1 3.5s ease-out forwards; }
+    #r2 { animation: w2 2s ease-out 3.5s forwards; }
+    #r3 { animation: w3 2s ease-out 5.5s forwards; }
+    #r4 { animation: w4 .5s ease-out 7.5s forwards; }
+    #r5 { animation: w5 2s ease-out 8s forwards; }
+
+    @keyframes w1 { to { width: 420px; } }
+    @keyframes w2 { to { width: 240px; } }
+    @keyframes w3 { to { width: 240px; } }
+    @keyframes w4 { to { width: 60px; } }
+    @keyframes w5 { to { width: 240px; } }
+
+    /* Prozent „mitwandern“ */
+    #t1 { animation: m1 3.5s ease-out forwards; animation-delay: .1s; }
+    #t2 { animation: m2 2s ease-out 3.5s forwards; }
+    #t3 { animation: m3 2s ease-out 5.5s forwards; }
+    #t4 { animation: m4 .5s ease-out 7.5s forwards; }
+    #t5 { animation: m5 2s ease-out 8s forwards; }
+
+    @keyframes m1 { to { opacity:1; transform: translateX(400px); } }
+    @keyframes m2 { to { opacity:1; transform: translateX(220px); } }
+    @keyframes m3 { to { opacity:1; transform: translateX(220px); } }
+    @keyframes m4 { to { opacity:1; transform: translateX(60px); } }
+    @keyframes m5 { to { opacity:1; transform: translateX(220px); } }
+
+    /* Hover */
+    rect:hover { filter: brightness(1.14); }
+    text.pct:hover { transform: translateY(-6px); }
+</style>
+</svg>

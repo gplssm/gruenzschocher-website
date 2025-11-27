@@ -14,6 +14,8 @@ Die Bewohner\*innen sind gleichzeitig Genoss\*innen. Mit Einlagen stellen sie de
 Durch monatliche Mietzahlung werden Betriebskosten, Zins- und Tilgungszahlungen gedeckt.
 Verlassen Bewohner\*innen das Projekt, erhalten sie ihre Einlagen zurück.
 
+{{< svg "static/financing_bar_horizontal.svg" >}}
+
 
 # Unterstützer\*innen
 
