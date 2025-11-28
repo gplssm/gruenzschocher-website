@@ -2,7 +2,7 @@
 title: ""
 ---
 
-{{< callout message="Wir brauchen eure Unterstützung! Informiert euch über die Möglichkeit das Projekt [als investierende Mitglieder oder mit Direktkrediten](direktkredite) zu unterstützen." >}}
+{{< callout message="Wir brauchen eure Unterstützung! Informiert euch über die Möglichkeit das Projekt [als investierende Mitglieder](direktkredite) zu unterstützen." >}}
 
 # Wer wir sind
 
