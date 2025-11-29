@@ -10,11 +10,18 @@ Dies ermöglicht Haus und Grundstück **dauerhaft dem Immobilienmarkt entziehen*
 
 {{< figure src="images/Grafik vom Flyer_transparenter Hintergrund_gute Quali.png" alt="Finanzflüsse im Wohnprojekt Grünzschocher" class="center" width="80%"  >}}
 
+<!-- Mit Förderprogrammen der Kreditanstalt für Wiederaufbau (KfW) und der sächsischen Aufbaubank (SAB) können wir etwas günstigere Zinsen realisieren.-->
+Bauen ist teuer, die Zinsen sind hoch und das Eigenkapital der Gründungsmitlieder ist begrenzt.
+Deshalb stellen wir unsere Finanzierung auf drei Säulen: Bankkredit, Förderungs durch KfW & SAB und Eigenkapital, welches durch Einlagen der Mitglieder bereitgestellt wird. 
+Die Zusammensetzung sieht in etwas wie folgt aus
+{{< svg "static/financing_bar_horizontal.svg" >}}
+
+
 Die Bewohner\*innen sind gleichzeitig Genoss\*innen. Mit Einlagen stellen sie der Genossenschaft Eigenkapital zur Verfügung und senken somit den Bedarf an Fremdkapital.
 Durch monatliche Mietzahlung werden Betriebskosten, Zins- und Tilgungszahlungen gedeckt.
 Verlassen Bewohner\*innen das Projekt, erhalten sie ihre Einlagen zurück.
 
-{{< svg "static/financing_bar_horizontal.svg" >}}
+{{< svg "static/images/Finanzflüsse eG.svg" >}}
 
 
 # Unterstützer\*innen
@@ -30,7 +37,7 @@ Bevorzugt nehmen wir Unterstützung investierender Mitglieder entgegen, da dies 
 Alternativ freuen wir uns aber auch über Direktkredite.
 
 
-# Frage? Antworten!
+# Fragen? Antworten!
 
 {{< admonition type=tip title="Was ist ein Direktkredit?" open=false >}}
 Ein Direktkredit (Nachrangdarlehen) bedeutet: Ihr leiht uns als Projektgemeinschaft Geld – direkt und ohne Bank dazwischen. 
