@@ -35,7 +35,7 @@
 @media (min-width: 1001px) {
   .responsive-svg-container {
     width: 50vw;
-    max-width: 800px; /* große Version */
+    max-width: 1200px; /* große Version */
     margin: 0 auto;
   }
 }

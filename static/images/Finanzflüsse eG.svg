@@ -4,8 +4,7 @@
 
 <svg width="100%" 
      height="auto"
-     /* viewBox="0 0 420 780"* /
-     viewBox="0 0 WIDTH HEIGHT" preserveAspectRatio="xMidYMid meet"
+     viewBox="0 0 420 780" preserveAspectRatio="xMidYMid meet"
      style="max-width: 100%; height: auto;">
    version="1.1"
    id="svg820"
