@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="320" height="480" viewBox="-60 40 390 620"
+     width="320" height="480" viewBox="0 0 390 600"
      style="font-family: sans-serif; display: block; margin: auto">
 
   <style>
@@ -22,10 +22,8 @@
       stroke-width: 2;
       rx: 0;
       ry: 0;
-      /* animation: fill 2s ease-out forwards; */
     }
 
-    @keyframes fill { to { transform: scaleY(1); } }
 
     /* Label */
     .label {
@@ -61,23 +59,23 @@
 
     /* Segment 4 */
     #seg4 { animation: s4 0.5s ease-out forwards; animation-delay: 3.8s;  }
-    #lab4 { animation-delay: 3.4s; }
+    #lab4 { animation-delay: 4s; }
 
     /* Segment 5 */
     #seg5 { animation: s5 1s ease-out forwards; animation-delay: 4.5s;  }
-    #lab5 { animation-delay: 4.1s; }
+    #lab5 { animation-delay: 5s; }
 
-    @keyframes s1 { to { y: 440; } to { height: 210px; } }
-    @keyframes s2 { to { y: 320; } to { height: 120px; } }
-    @keyframes s3 { to { y: 200; } to { height: 120px; } }
-    @keyframes s4 { to { y: 170; } to { height: 30px; } }
-    @keyframes s5 { to { y: 50; } to { height: 120px; } }
+    @keyframes s1 { to { y: 390px; } to { height: 210px; } }
+    @keyframes s2 { to { y: 270px; } to { height: 120px; } }
+    @keyframes s3 { to { y: 150px; } to { height: 120px; } }
+    @keyframes s4 { to { y: 120px; } to { height: 30px; } }
+    @keyframes s5 { to { y: 0px; } to { height: 120px; } }
 
   </style>
 
   <!-- Hintergrundbalken -->
   <rect id="background"
-        x="100" y="50"
+        x="160" y="0"
         width="220" height="600" />
 
 
@@ -91,14 +89,14 @@
 
   <!-- Segment 1 -->
   <rect id="seg1" class="segment"
-        x="100" y="660"
+        x="160" y="600"
         width="220" height="0px"
         fill="#4CAF50" />
 
   <text id="lab1" class="label"
        text-anchor="end">
-      <tspan x="90" y="545">Bewohnende</tspan>
-  <tspan x="90" dy="1.2em">Mitglieder</tspan>
+      <tspan x="150" y="495">Bewohnende</tspan>
+  <tspan x="150" dy="1.2em">Mitglieder</tspan>
   </text>
 
   <!-- <text id="pct1" class="pct"
@@ -109,14 +107,14 @@
 
   <!-- Segment 2 (startet oben am Segment 1) -->
   <rect id="seg2" class="segment"
-        x="100" y="440"
+        x="160" y="390px"
         width="220" height="0px"
         fill="#81C784" />
 <text id="lab2" class="label"
       text-anchor="end">
 
-  <tspan x="90" y="380">Investierende</tspan>
-  <tspan x="90" dy="1.2em">Mitglieder</tspan>
+  <tspan x="150" y="330">Investierende</tspan>
+  <tspan x="150" dy="1.2em">Mitglieder</tspan>
 
 </text>
 
@@ -130,12 +128,12 @@
 
   <!-- Segment 3 -->
   <rect id="seg3" class="segment"
-        x="100" y="320"
+        x="160" y="270px"
         width="220" height="0px"
         fill="#2196F3" />
 
   <text id="lab3" class="label"
-        x="90" y="260" text-anchor="end">
+        x="150" y="210" text-anchor="end">
     KfW Förderkredit
   </text>
 
@@ -147,12 +145,12 @@
 
   <!-- Segment 4 -->
   <rect id="seg4" class="segment"
-        x="100" y="200"
+        x="160" y="150px"
         width="220" height="0px"
         fill="#64B5F6" />
 
   <text id="lab4" class="label"
-        x="90" y="192" text-anchor="end">
+        x="150" y="140px" text-anchor="end">
     SAB Förderkredit
   </text>
 
@@ -164,13 +162,13 @@
 
   <!-- Segment 5 -->
   <rect id="seg5" class="segment"
-        x="100" y="170"
-        width="220" height="0"
+        x="160" y="120"
+        width="220" height="0px"
         fill="#8E7CA3" 
         rx="16" ry="16"/>
 
   <text id="lab5" class="label"
-        x="90" y="110" text-anchor="end">
+        x="150" y="60" text-anchor="end">
     Bankkredit
   </text>
 
