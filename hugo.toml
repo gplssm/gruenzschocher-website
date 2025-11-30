@@ -9,6 +9,8 @@ languageName = "German"
 
 [params]
 defaultTheme = 'light'
+title = "Grünzschocher"
+description = "Ein Wohnprojekt in Grünzschocher"
 
 [params.header.title]
 #name = "Grünzschocher"
