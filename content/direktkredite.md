@@ -12,7 +12,7 @@ Dies ermöglicht Haus und Grundstück **dauerhaft dem kapitalzentrierten Immobil
 
 <!-- Mit Förderprogrammen der Kreditanstalt für Wiederaufbau (KfW) und der sächsischen Aufbaubank (SAB) können wir etwas günstigere Zinsen realisieren.-->
 Bauen ist teuer, die Zinsen sind hoch und das Eigenkapital der Gründungsmitglieder ist begrenzt.
-Deshalb setzen wir neben klassischem Bankkredit und Förderung durch KfW & SAB auf ein hohes Maß an Eigenkapital.
+Deshalb setzen wir neben klassischem Bankkredit und Förderung durch KfW & SAB auf ein hohes Maß an Genossenschaftseinlagen.
 Die Zusammensetzung sieht in etwa wie folgt aus
 {{< svg "static/financing_bar_horizontal.svg" >}}
 
