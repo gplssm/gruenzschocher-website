@@ -1,0 +1,4 @@
+<div class="responsive-svg-container">
+  {{ $svg := .Get 0 }}
+  {{ $svg | readFile | safeHTML }}
+</div>

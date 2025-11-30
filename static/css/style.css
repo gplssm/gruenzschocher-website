@@ -1,0 +1,41 @@
+.svg-wrapper svg {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: block;
+}
+
+/* Basis: SVG nimmt immer seine max. Breite ein */
+.responsive-svg-container svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* --- MOBILE (<= 600px) --- */
+@media (max-width: 600px) {
+  .responsive-svg-container {
+    width: 90vw;     /* schön breit, aber mit Abstand */
+    max-width: 400px;   /* SVG nicht größer als nötig */
+    margin: 0 auto;
+  }
+}
+
+/* --- TABLET (601–1000px) --- */
+@media (min-width: 601px) and (max-width: 1000px) {
+  .responsive-svg-container {
+    width: 70vw;
+    max-width: 550px;
+    margin: 0 auto;
+  }
+}
+
+/* --- DESKTOP (>= 1001px) --- */
+@media (min-width: 1001px) {
+  .responsive-svg-container {
+    width: 50vw;
+    max-width: 1200px; /* große Version */
+    margin: 0 auto;
+  }
+}

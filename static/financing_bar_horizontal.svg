@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="320" height="480" viewBox="-60 40 390 620"
+     style="font-family: sans-serif; display: block; margin: auto">
+
+  <style>
+    :root {
+      --bar-x: 150px;
+      --bar-width: 220px;
+      --bar-top: 50px;
+      --bar-height: 600px;
+    }
+
+    /* Hintergrund */
+    #background {
+      fill: #eee;
+      rx: 0;
+      ry: 0;
+    }
+
+    .segment {
+      stroke: #fff;
+      stroke-width: 2;
+      rx: 0;
+      ry: 0;
+      /* animation: fill 2s ease-out forwards; */
+    }
+
+    @keyframes fill { to { transform: scaleY(1); } }
+
+    /* Label */
+    .label {
+      font-size: 18px;
+      font-weight: 600;
+      opacity: 0;
+      animation: fadeIn .6s ease-out forwards;
+    }
+
+    /* Prozentanzeige */
+    .pct {
+      font-size: 18px;
+      font-weight: 700;
+      opacity: 0;
+      animation: fadeIn .6s ease-out forwards;
+    }
+
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    /* Sequenzielle Delays */
+
+    /* Segment 1 */
+    #seg1 { animation: s1 1.5s ease-out forwards; }
+    #lab1{ animation-delay: 1.0s; }
+
+    /* Segment 2 */
+    #seg2 { animation: s2 1s ease-out forwards; animation-delay: 1.6s;  }
+    #lab2 { animation-delay: 2.2s; }
+
+    /* Segment 3 */
+    #seg3 { animation: s3 1s ease-out forwards; animation-delay: 2.7s;  }
+    #lab3 { animation-delay: 3.3s; }
+
+    /* Segment 4 */
+    #seg4 { animation: s4 0.5s ease-out forwards; animation-delay: 3.8s;  }
+    #lab4 { animation-delay: 3.4s; }
+
+    /* Segment 5 */
+    #seg5 { animation: s5 1s ease-out forwards; animation-delay: 4.5s;  }
+    #lab5 { animation-delay: 4.1s; }
+
+    @keyframes s1 { to { y: 440; } to { height: 210px; } }
+    @keyframes s2 { to { y: 320; } to { height: 120px; } }
+    @keyframes s3 { to { y: 200; } to { height: 120px; } }
+    @keyframes s4 { to { y: 170; } to { height: 30px; } }
+    @keyframes s5 { to { y: 50; } to { height: 120px; } }
+
+  </style>
+
+  <!-- Hintergrundbalken -->
+  <rect id="background"
+        x="100" y="50"
+        width="220" height="600" />
+
+
+  <!-- SEGMENTHÖHEN -->
+  <!-- 35% → 210px -->
+  <!-- 20% → 120px -->
+  <!-- 20% → 120px -->
+  <!--  5% →  30px -->
+  <!-- 20% → 120px -->
+
+
+  <!-- Segment 1 -->
+  <rect id="seg1" class="segment"
+        x="100" y="660"
+        width="220" height="0px"
+        fill="#4CAF50" />
+
+  <text id="lab1" class="label"
+       text-anchor="end">
+      <tspan x="90" y="545">Bewohnende</tspan>
+  <tspan x="90" dy="1.2em">Mitglieder</tspan>
+  </text>
+
+  <!-- <text id="pct1" class="pct"
+        x="380" y="440">
+    35 %
+  </text> -->
+
+
+  <!-- Segment 2 (startet oben am Segment 1) -->
+  <rect id="seg2" class="segment"
+        x="100" y="440"
+        width="220" height="0px"
+        fill="#81C784" />
+<text id="lab2" class="label"
+      text-anchor="end">
+
+  <tspan x="90" y="380">Investierende</tspan>
+  <tspan x="90" dy="1.2em">Mitglieder</tspan>
+
+</text>
+
+
+
+  <!-- <text id="pct2" class="pct"
+        x="380" y="320">
+    20 %
+  </text> -->
+
+
+  <!-- Segment 3 -->
+  <rect id="seg3" class="segment"
+        x="100" y="320"
+        width="220" height="0px"
+        fill="#2196F3" />
+
+  <text id="lab3" class="label"
+        x="90" y="260" text-anchor="end">
+    KfW Förderkredit
+  </text>
+
+  <!-- <text id="pct3" class="pct"
+        x="380" y="200">
+    20 %
+  </text> -->
+
+
+  <!-- Segment 4 -->
+  <rect id="seg4" class="segment"
+        x="100" y="200"
+        width="220" height="0px"
+        fill="#64B5F6" />
+
+  <text id="lab4" class="label"
+        x="90" y="192" text-anchor="end">
+    SAB Förderkredit
+  </text>
+
+  <!-- <text id="pct4" class="pct"
+        x="380" y="170">
+    5 %
+  </text> -->
+
+
+  <!-- Segment 5 -->
+  <rect id="seg5" class="segment"
+        x="100" y="170"
+        width="220" height="0"
+        fill="#8E7CA3" 
+        rx="16" ry="16"/>
+
+  <text id="lab5" class="label"
+        x="90" y="110" text-anchor="end">
+    Bankkredit
+  </text>
+
+  <!-- <text id="pct5" class="pct"
+        x="380" y="50">
+    20 %
+  </text> -->
+
+</svg>

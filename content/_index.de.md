@@ -1,12 +1,8 @@
 ---
 title: ""
-params:
-    wer-wir-sind:
-    - person: name
-      image: "123"
 ---
 
-{{< callout message="Wir brauchen eure Unterstützung! Informiert euch über die Möglichkeit das Projekt mit [Direktkrediten](direktkredite) zu unterstützen." >}}
+{{< callout message="Wir brauchen eure Unterstützung! Informiert euch über die Möglichkeit das Projekt [als investierendes Mitglied](direktkredite) zu unterstützen." >}}
 
 # Wer wir sind
 
