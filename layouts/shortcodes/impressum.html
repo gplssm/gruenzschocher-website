@@ -6,7 +6,8 @@
         <p style="text-align: left;">{{ with .Get "address_street" }}{{ . }}{{ end }}</p>
         <p style="text-align: left;">{{ with .Get "address_city" }}{{ . }}{{ end }}</p>
         <p style="padding: 20px;"></p>
-        <p style="text-align: left;">Gründungsmitglieder: {{ with .Get "members" }}{{ . }}{{ end }}</p>
+        <p style="text-align: left;">Vorstand: {{ with .Get "management" }}{{ . }}{{ end }}</p>
+        <p style="text-align: left;">Aufsichtsrat: {{ with .Get "supervisors" }}{{ . }}{{ end }}</p>
         <p style="text-align: left;">E-Mail: {{ with .Get "email" }}{{ . }}{{ end }}</p>
         <p style="text-align: left;">Inhaltlich Verantwortlicher: {{ with .Get "responsible" }}{{ . }}{{ end }}</p>
     </div>
