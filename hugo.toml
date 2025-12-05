@@ -36,6 +36,10 @@ since = 2025
 custom = "[Impressum](/impressum) | [Datenschutzerklärung](/datenschutz)"
 
 
+[params.section]
+paginate = 1
+
+
 # Menu config
   [[menu.main]]
     weight = 1
