@@ -7,8 +7,14 @@ defaultContentLanguage = 'de'
 languageCode = 'de-De'
 languageName = "German"
 
+# Summary length for posts (in words)
+summaryLength = 180
+
 [params]
 defaultTheme = 'light'
+
+[params.home.posts]
+enable = false
 
 [params.header.title]
 #name = "Grünzschocher"

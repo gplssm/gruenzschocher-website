@@ -1,3 +1,12 @@
+/* Remove line clamp limitation for post summaries */
+.home[data-home=posts] .summary .content {
+    display: block !important;
+    -webkit-line-clamp: unset !important;
+    -webkit-box-orient: unset !important;
+    overflow: visible !important;
+    text-overflow: unset !important;
+}
+
 .flex-container-left {
     display: flex;
     gap: 20px;
