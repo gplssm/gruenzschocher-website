@@ -37,7 +37,7 @@ custom = "[Impressum](/impressum) | [Datenschutzerklärung](/datenschutz)"
 
 
 [params.section]
-paginate = 1
+paginate = 6
 
 
 # Menu config
