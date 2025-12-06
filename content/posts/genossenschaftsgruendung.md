@@ -1,5 +1,5 @@
 ---
-title: "Genossenschaftsgruendung"
+title: "Genossenschaftsgründung"
 subtitle: ""
 date: 2025-11-30T21:21:56+01:00
 lastmod: 2025-11-30T21:21:56+01:00
