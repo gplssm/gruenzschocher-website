@@ -13,7 +13,7 @@ images: []
 tags: []
 categories: []
 
-featuredImage: ""
+featuredImage: "images/post_title_image_satzung.jpg"
 featuredImagePreview: ""
 
 hiddenFromHomePage: false
