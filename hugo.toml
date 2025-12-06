@@ -7,10 +7,18 @@ defaultContentLanguage = 'de'
 languageCode = 'de-De'
 languageName = "German"
 
+# Summary length for posts (in words)
+summaryLength = 180
+
+enableEmoji = true
+
 [params]
 defaultTheme = 'light'
 title = "Grünzschocher"
 description = "Ein Wohnprojekt in Grünzschocher"
+
+[params.home.posts]
+enable = false
 
 [params.header.title]
 #name = "Grünzschocher"
@@ -32,7 +40,22 @@ since = 2025
 custom = "[Impressum](/impressum) | [Datenschutzerklärung](/datenschutz)"
 
 
+[params.section]
+paginate = 6
+
+
 # Menu config
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Aktuelles"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
   [[menu.main]]
     weight = 2
     identifier = "direktkredite"
