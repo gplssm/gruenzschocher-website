@@ -15,7 +15,7 @@ enableEmoji = true
 [params]
 defaultTheme = 'light'
 title = "Grünzschocher"
-description = "Ein Wohnprojekt in Grünzschocher"
+description = "Grünzschocher ist ein Wohnprojekt am Entstehen. Das Kunstwort Grünzschocher beschreibt den Ort - irgendwie Großzschocher, aber gleichzeitig Grünzschocher"
 
 [params.home.posts]
 enable = false
