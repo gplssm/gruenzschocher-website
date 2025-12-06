@@ -10,6 +10,8 @@ languageName = "German"
 # Summary length for posts (in words)
 summaryLength = 180
 
+enableEmoji = true
+
 [params]
 defaultTheme = 'light'
 

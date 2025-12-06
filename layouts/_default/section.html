@@ -8,6 +8,9 @@
         <h2 class="single-title animate__animated animate__pulse animate__faster">
             {{- .Params.Title | default (T .Section) | default .Section | dict "Some" | T "allSome" -}}
         </h2>
+        <p>
+            Wir halten euch über die neuesten Entwicklungen auf dem Laufenden {{- " :loudspeaker:" | markdownify | emojify -}}
+        </p>
 
         {{- /* Posts */ -}}
         {{- if .Pages -}}
