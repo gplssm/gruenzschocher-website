@@ -58,13 +58,13 @@ paginate = 6
     title = ""
   [[menu.main]]
     weight = 2
-    identifier = "direktkredite"
+    identifier = "unterstuetzen"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Unterstützen"
-    url = "/direktkredite/"
+    url = "/unterstuetzen/"
     # title will be shown when you hover on this menu link
     title = "Wir suchen Unterstützung bei der Finanzierung"
 

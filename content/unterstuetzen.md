@@ -1,6 +1,6 @@
 ---
 title: ""
-slug: direktkredite
+slug: unterstuetzen
 ---
 
 # Solidarisch wirtschaften statt spekulieren
