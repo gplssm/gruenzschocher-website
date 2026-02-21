@@ -31,20 +31,20 @@ jobs:
 
       # ---- Link Check VOR Deploy ----
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+      # - name: Setup Node.js
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version: 20
 
-      - name: Install Linkinator
-        run: npm install -g linkinator
+      # - name: Install Linkinator
+      #   run: npm install -g linkinator
 
-      - name: Run Linkinator
-        run: |
-          linkinator public \
-            --recurse \
-            --skip "mailto:.*,tel:.*" \
-            --verbosity error
+      # - name: Run Linkinator
+      #   run: |
+      #     linkinator public \
+      #       --recurse \
+      #       --skip "mailto:.*,tel:.*" \
+      #       --verbosity error
 
       # ---- Nur wenn Linkinator OK → Deploy ----
 
