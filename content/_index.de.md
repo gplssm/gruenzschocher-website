@@ -34,6 +34,24 @@ Das gemeinschaftliche Wohnen realisieren wir in Form von Clusterwohnen mit je ei
 Zusätzlich sollen gemeinsam genutzte Flächen außerhalb der Wohnbereiche entstehen: Werkstatt, Kreativraum, Außenküche, Fahrradraum, Lagerflächen, Hauswirtschaftsraum/Waschküche und Sauna.
 Altersgerechte Konzepte denken wir bei baulichen Entscheidungen mit, um sie später leichter zu ermöglichen. Darüberhinaus bauen wir so, dass eine Umgestaltung des Clusters mit vertretbarem Aufwand möglich ist, z.B. für den Fall, wenn sich die familiäre Situation ändert.
 
+# Wir suchen noch Mitbewohnis
+
+Wir haben noch Platz für weitere Menschen in unserem Projekt. Besonders freuen würden wir uns, wenn eine weitere Familie mit Kleinkind(ern) die Gruppe ergänzt.
+Im Zuge unseres Gründungsprozesses ist ein [Leitbild]() entstanden. Lest das gerne, um eine Idee zu bekommen woran wir denken, wenn wir _Wohnprojekt_ sagen.
+
+TODO
+- welche Werte wollen wir nennen?
+- gibt es weiteren Kriterien oder Dinge die Interessierte checken können, bevor sie sich bei uns melden?
+- haben wir besondere, die schon Vorab per Mail beantwortet werden können?
+
+Wenn das bei euch resoniert und ihr konkreteres Interesse habt, meldet euch gerne per Mail: hallo@gruenzschocher.de
+
+Wir würden uns freuen, wenn ihr 
+- ein paar Worte zu euch schreibt
+- erzählt, warum ihr euch für _ein_ und genau _dieses_ Wohnprojekt interessiert
+- welche Wert euch wichtig sind
+
+Wir freuen uns auf Post von euch :mailbox_with_mail:
 
 
 
