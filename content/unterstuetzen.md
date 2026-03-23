@@ -5,7 +5,7 @@ slug: unterstuetzen
 
 # Solidarisch wirtschaften statt spekulieren
 
-Wir haben uns für die Rechtsform einer **eingetragenen Genossenschaft (eG)** entschieden – eine seit über 100 Jahren bestehende und gut erprobte Rechtsform zur Wohnraumverwaltung.
+Wir haben uns für die Rechtsform einer [**eingetragenen Genossenschaft (eG)**](../genossenschaft) entschieden – eine seit über 100 Jahren bestehende und gut erprobte Rechtsform zur Wohnraumverwaltung.
 Dies ermöglicht Haus und Grundstück **dauerhaft dem kapitalzentrierten Immobilienmarkt entziehen** und somit **langfristig bezahlbare Mieten** für die Bewohner*innen zu ermöglich, anstatt Spekulationsgewinne für Wenige zu generieren.
 
 <!-- {{< figure src="images/Grafik vom Flyer_transparenter Hintergrund_gute Quali.png" alt="Finanzflüsse im Wohnprojekt Grünzschocher" class="center" width="80%"  >}} -->
