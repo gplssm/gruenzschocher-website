@@ -7,6 +7,34 @@
     text-overflow: unset !important;
 }
 
+/* Fix mobile menu on posts page */
+@media only screen and (max-width: 680px) {
+    /* Ensure mobile header has proper z-index */
+    #header-mobile {
+        position: fixed;
+        z-index: 150;
+    }
+    
+    /* Ensure menu toggle is clickable and visible */
+    #header-mobile .menu-toggle {
+        position: relative;
+        z-index: 160;
+        cursor: pointer;
+    }
+    
+    /* Ensure mobile menu appears above content */
+    #header-mobile .menu {
+        position: relative;
+        z-index: 155;
+    }
+    
+    /* Prevent posts page content from interfering with mobile menu */
+    .home[data-home=posts] {
+        position: relative;
+        z-index: 1;
+    }
+}
+
 .flex-container-left {
     display: flex;
     gap: 20px;
