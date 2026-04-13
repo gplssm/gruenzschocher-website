@@ -44,12 +44,12 @@ TODO
 - gibt es weiteren Kriterien oder Dinge die Interessierte checken können, bevor sie sich bei uns melden?
 - haben wir besondere, die schon Vorab per Mail beantwortet werden können?
 
-Wenn das bei euch resoniert und ihr konkreteres Interesse habt, meldet euch gerne per Mail: hallo@gruenzschocher.de
+Wenn das bei euch resoniert und ihr konkretes Interesse habt, meldet euch gerne per Mail: hallo@gruenzschocher.de
 
 Wir würden uns freuen, wenn ihr 
 - ein paar Worte zu euch schreibt
 - erzählt, warum ihr euch für _ein_ und genau _dieses_ Wohnprojekt interessiert
-- welche Wert euch wichtig sind
+- welche Werte euch wichtig sind
 
 Wir freuen uns auf Post von euch :mailbox_with_mail:
 
