@@ -4,7 +4,7 @@ subtitle: ""
 date: 2025-11-30T21:21:56+01:00
 lastmod: 2025-11-30T21:21:56+01:00
 draft: false
-# author: "Katha"
+author: "Katha"
 authorLink: ""
 description: ""
 license: ""
@@ -27,7 +27,7 @@ linkToMarkdown: true
 rssFullText: false
 
 toc:
-  enable: true
+  enable: false
   auto: true
   keepStatic: false
 code:
