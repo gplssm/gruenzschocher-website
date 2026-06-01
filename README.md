@@ -4,8 +4,6 @@
 git submodule update --init --recursive
 ```
 
-# Publish to web server
+# Build locally
 
-```bash
-SSH_USER=<ssh user> WEB_SERVER=<web server> WWW_PATH=<www path> ./publish.sh
-```
+docker run --rm   -v $PWD:/project   -u $(id -u):$(id -g) -p 1313:1313 ghcr.io/gohugoio/hugo:v0.148.2 serve --bind 0.0.0.0
