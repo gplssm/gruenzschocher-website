@@ -98,6 +98,10 @@ paginate = 6
 [page.social]
 Instagram = false
 
+[params.page.toc]
+  enable = false
+
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
