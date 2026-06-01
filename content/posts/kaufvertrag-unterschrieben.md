@@ -4,7 +4,7 @@ subtitle: "Der erste offizielle Termin als eG i.G. "
 date: 2025-12-22T10:00:00+01:00
 lastmod: 2026-01-12T14:21:00+01:00
 draft: false
-author: "Katha"
+# author: "Katha"
 featuredImage: "images/2025-12-22_Kaufvertragsfeier_Maja-with-new-face_cropped.jpg"
 ---
 

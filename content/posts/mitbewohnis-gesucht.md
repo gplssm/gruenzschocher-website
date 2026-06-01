@@ -4,7 +4,7 @@ subtitle: "Wir haben noch Platz im Wohnprojekt :person_red_hair: :person_curly_h
 date: 2026-06-01T22:00:00+02:00
 lastmod: 2026-06-01T22:00:00+02:00
 draft: false
-author: "Susanne"
+# author: "Susanne"
 # featuredImage: "images/2025-12-22_Kaufvertragsfeier_Maja-with-new-face_cropped.jpg"
 ---
 
