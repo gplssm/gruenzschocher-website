@@ -10,4 +10,4 @@ author: "Susanne"
 
 Die Genossenschaft wird bald fertig gegründet sein und alles wird konkreter: Abwicklung des Grundstückkaufs, Planung des Hauses und Vervollständigung der Gruppe: es gibt tatsächlich noch freien Platz im Projekt.
 
-Auf der [Startseite](/) gibt es mehr Infos.
+Auf der [Startseite](/#mitbewohnis-gesucht) gibt es mehr Infos.
