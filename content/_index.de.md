@@ -6,8 +6,7 @@ title: ""
 
 # Wer wir sind
 
-Wir sind Florian, Guido, Katharina, Nele und Susanne.
-Wir streben ein gemeinschaftliches Wohnprojekt an und wollen vorstellen, wer wir sind und was wir vorhaben.
+Wir sind Florian, Guido, Katharina, Nele und Susanne und streben ein gemeinschaftliches Wohnprojekt an.
 
 {{< figure src="images/gruppenbild-zu-fuenft-cropped.jpeg" alt="Gruppenbild" class="center" width="90%">}}
 
