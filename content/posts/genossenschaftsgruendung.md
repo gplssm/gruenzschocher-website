@@ -27,7 +27,7 @@ linkToMarkdown: true
 rssFullText: false
 
 toc:
-  enable: true
+  enable: false
   auto: true
   keepStatic: false
 code:
