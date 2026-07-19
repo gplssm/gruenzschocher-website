@@ -30,8 +30,8 @@ Durch Tierhaltung, Witterung und den hohen Grundwasserspiegel ist das Haus jedoc
 
 Die aktuelle Kerngruppe plant in einem Cluster zu wohnen. Jede Partei bewohnt dabei einen eigenen Satelliten. Also einen abgegrenzten Wohnbereich mit eigenem Badezimmer.
 Küche, Wohnraum, Arbeits-/Büroräume und Gästezimmer möchten wir innerhalb des Clusters teilen.
-Der Anspruch ist, dass der schönste Raum zum Gemeinschaftsraum wird, denn dann füllt er sich auch mit Leben.
-Als weitere Wohnform sind auch abgetrennte Wohneinheiten möglich.
+Der Gemeinschaftsraum des Clusters - bestehend aus Küche und Wohnraum - soll dabei der schönste Raum werden, denn dann füllt er sich auch mit Leben.
+Daneben sind als weitere Wohnform auch abgetrennte Wohneinheiten möglich.
 
 Den Garten wollen wir mit allen zusammen nutzen. Ebenso die zusätzlichen Flächen außerhalb der Wohnbereiche: Werkstatt, Kreativraum, Außenküche, Fahrradraum, Lagerflächen, Hauswirtschaftsraum/Waschküche und Sauna.
 
