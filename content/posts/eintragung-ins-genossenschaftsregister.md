@@ -59,6 +59,11 @@ seo:
   images: []
   # ...
 ---
+<div align="center">
+<span style="color: grey; font-size: small"><a href="https://commons.wikimedia.org/wiki/File:Amtsgericht_Leipzig_2009.JPG">Amtsgericht Leipzig 2009</a> 
+von <a href="https://commons.wikimedia.org/wiki/User:Martin_Geisler">Martin Geisler</a> ist lizensiert unter CC-BY-SA 3.0</span>   
+</div>
+
 
 Nach einem 8-monatigen Gründungsprozess - gerechnet von Gründungsversammlung bis zur Eintragung - ist die Genossenschaft nun ins Genossenschaftsregister eingetragen worden und damit eine "richtige Genossenschaft" :tada:
 
