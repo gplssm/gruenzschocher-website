@@ -61,7 +61,9 @@ seo:
 ---
 
 Nach einem 8-monatigen Gründungsprozess - gerechnet von Gründungsversammlung bis zur Eintragung - ist die Genossenschaft nun ins Genossenschaftsregister eingetragen worden und damit eine "richtige Genossenschaft" :tada:
+
 Somit firmieren wir ab jetzt als Grünzschocher eG und dürfen auf den Zusatz _in Gründung_ verzichten.
+
 
 Wir freuen uns über diesen Meilenstein!
 Mit dieser ein Eintragung ist die Genossenschaft nun vollständig rechtsfähig. D.h. sie kann bspw. als verlässlicher Vertragspartner agieren, Grundstücke kaufen und Bankkonten eröffnen.
