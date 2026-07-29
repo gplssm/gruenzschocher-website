@@ -7,7 +7,7 @@ draft: false
 author: "Guido"
 authorLink: ""
 description: ""
-license: "![Amtsgericht Leipzig 2009](https://commons.wikimedia.org/wiki/File:Amtsgericht_Leipzig_2009.JPG) von ![Martin Geisler](https://commons.wikimedia.org/wiki/User:Martin_Geisler) ist lizensiert unter CC-BY-SA 3.0"
+license: ""
 images: []
 
 tags: []
