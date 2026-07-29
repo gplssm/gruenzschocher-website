@@ -71,6 +71,6 @@ Somit firmieren wir ab jetzt als Grünzschocher eG und dürfen auf den Zusatz _i
 
 
 Wir freuen uns über diesen Meilenstein!
-Mit dieser ein Eintragung ist die Genossenschaft nun vollständig rechtsfähig. D.h. sie kann bspw. als verlässlicher Vertragspartner agieren, Grundstücke kaufen und Bankkonten eröffnen.
+Mit der ein Eintragung ist die Genossenschaft nun vollständig rechtsfähig und kann bspw. als verlässlicher Vertragspartner agieren, Grundstücke kaufen, neue Genossenschaftsmitglieder aufnehmen und Bankkonten eröffnen.
 
 Somit können wir nun die nächsten Schritte beim Aufbau des Wohnprojektes beschreiten :rocket:
