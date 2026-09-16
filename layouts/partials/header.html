@@ -1,3 +1,9 @@
+{{- /* Ensure window.config is never null (breaks theme JS initMenuMobile on list pages) */ -}}
+{{- $this := .Scratch.Get "this" -}}
+{{- if not $this.config -}}
+    {{- .Scratch.Set "this" (merge $this (dict "config" dict)) -}}
+{{- end -}}
+
 {{- /* Desktop header */ -}}
 <header class="desktop" id="header-desktop">
     <div class="header-wrapper">
